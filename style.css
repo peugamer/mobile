@@ -11,6 +11,11 @@ img{
     right: 140px;
 }
 
+body{
+    background: #151515;
+    opacity: 0.20;
+}
+
 header{
     display: inline-blocks;
     margin-top: 24px;
